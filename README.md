@@ -1,6 +1,6 @@
 # Demo :movie_camera:
 
-## View live preview [here](https://nehanooka.netlify.app/)
+## View live preview [here](https://google.com/)
 
 ![](./public/image/screen.mov)
 
@@ -129,7 +129,7 @@ EMAIL_ADDRESS =
 
 Eg:
 
-```javascript
+<!-- ```javascript
 export const personalData = {
   name: "NEHA NOOKA",
   profile: "/profile.jpeg",
@@ -151,7 +151,7 @@ export const personalData = {
   resume:
     "https://drive.google.com/file/d/1nzo6AEhlryO4dxACzpd0Hw8Krm0fuA_C/view?usp=sharing",
 };
-```
+``` -->
 
 `devUsername` is used for fetching blog posts from `dev.to`.
 
