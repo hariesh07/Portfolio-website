@@ -8,11 +8,11 @@ export const personalData = {
   phone: '+971 55 750 4234',
   address: 'Sharjah, United Arab Emirates',
   github: 'https://github.com/hariesh07',
-  facebook: 'https://www.facebook.com/NehaNooka/',
+  facebook: 'https://www.facebook.com/',
   linkedIn: 'https://www.linkedin.com/in/harieshrp/',
-  twitter: 'https://twitter.com/nehanooka',
-  stackOverflow: 'https://stackoverflow.com/users/29148012/neha-nooka',
-  leetcode: "https://leetcode.com/u/nehanooka/",
+  twitter: 'https://twitter.com',
+  stackOverflow: 'https://stackoverflow.com/',
+  leetcode: "https://leetcode.com/u//",
   devUsername: "harieshrp",
   resume: "https://drive.google.com/file/d/1mMG-Q5n28QqnyG5cQ5icQTZPw-tEO_Aw/view?usp=drive_link"
 }
